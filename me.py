@@ -1,4 +1,8 @@
 import time
 name=str(input("Cual es tu Nombre: "))
+surname=str(input("Cual es tu apellido paterno: "))
+
 print("Tu nombre es: ",name)
-time.sleep(5)
+print("Tu apellido paterno es: ",surname)
+
+time.sleep(10)
